@@ -1,0 +1,13 @@
+.heading{
+	text-align
+}
+body{
+	color: red;
+	background: linear-gradient(90deg, rgba(172,222,149,1) 0%, rgba(124,240,236,1) 50%, rgba(0,146,255,1) 100%);
+	
+};
+.insert{
+	display: grid;
+	grid-template-columns:auto auto auto;
+	grid-column-gap: 10px;
+}
